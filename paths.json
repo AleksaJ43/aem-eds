@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/aem-eds/:/"
   ],
   "includes": [
     "/content/aem-boilerplate/"
